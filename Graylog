@@ -58,3 +58,5 @@ volumes:
     driver: local
   graylog_journal:
     driver: local
+#PS Salvar esse arquivo com a ext .yml no /etc/docker.
+#Para rodar o compose use o comando docker-compose up 
